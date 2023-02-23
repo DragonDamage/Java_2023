@@ -1,6 +1,8 @@
 // "comment" - ставить комменты
 // JDK - прога для работы java кода
 
+package my.package1;  // package - папка для классов и файлов в проекте
+
 public class Main {
 
     public static void main(String[] args) {
