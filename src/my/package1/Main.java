@@ -20,17 +20,17 @@ public class Main {   // public - открытый модификатор дос
         String str = "Hello World!";           // строка
 
         // println - вывести на новой строке
-        System.out.println ("Hello World!");           // вывести текст
-        System.out.println ("Hello\\\"\n\tWorld!");    // \\ и \" - вывести просто символ \n - с новой строки, \t - отступ tab
-        System.out.println (num);                      // вывести переменную  num
-        System.out.println (num_1);                    // вывести переменную num_1
-        System.out.println (i);                        // вывести переменную i
-        System.out.println (l);                        // вывести переменную l
-        System.out.println (num_2);                    // вывести переменную num_2
-        System.out.println (num_3);                    // вывести переменную num_3
-        System.out.println ("Variable = " + num_4);    // вывести переменную
-        System.out.println ("Variable = " + sym);
-        System.out.println ("Variable = " + is_java);
-        System.out.println ("Variable = " + str);
+        System.out.println("Hello World!");           // вывести текст
+        System.out.println("Hello\\\"\n\tWorld!");    // \\ и \" - вывести просто символ \n - с новой строки, \t - отступ tab
+        System.out.println(num);                      // вывести переменную  num
+        System.out.println(num_1);                    // вывести переменную num_1
+        System.out.println(i);                        // вывести переменную i
+        System.out.println(l);                        // вывести переменную l
+        System.out.println(num_2);                    // вывести переменную num_2
+        System.out.println(num_3);                    // вывести переменную num_3
+        System.out.println("Variable = " + num_4);    // вывести переменную
+        System.out.println("Variable = " + sym);
+        System.out.println("Variable = " + is_java);
+        System.out.println("Variable = " + str);
     }
 }
